@@ -83,8 +83,6 @@ public class csvReaderScript : MonoBehaviour {
 				}
 				stateDataList.Add (currentData);
 				currentData = new stateData ();
-
-				//currentData.text = grid [i, 0];
 			}
 
 		}
